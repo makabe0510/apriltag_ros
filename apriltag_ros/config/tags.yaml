@@ -21,6 +21,16 @@
 #   ]
 standalone_tags:
   [
+  {id: 0, size: 0.06, name: 'toollow0_tag'},
+  {id: 1, size: 0.06, name: 'toolhigh0_tag'},
+  {id: 2, size: 0.06, name: 'toollow1_tag'},
+  {id: 3, size: 0.06, name: 'toollowwide0_tag'},
+  {id: 4, size: 0.06, name: '4'},
+  {id: 5, size: 0.06, name: '5'},
+  {id: 50, size: 0.02, name: 'lockhand0_tag'},
+  {id: 51, size: 0.02, name: 'lockbit0_tag'},
+  {id: 52, size: 0.02, name: 'lockhand1_tag'},
+  {id: 53, size: 0.02, name: 'lockparallel0_tag'}
   ]
 # ## Tag bundle definitions
 # ### Remarks
