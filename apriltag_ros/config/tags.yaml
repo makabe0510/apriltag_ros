@@ -27,10 +27,16 @@ standalone_tags:
   {id: 3, size: 0.06, name: 'toollowwide0_tag'},
   {id: 4, size: 0.06, name: '4'},
   {id: 5, size: 0.06, name: '5'},
+  {id: 13, size: 0.16, name: 'cassionmount0_tag'},
+  {id: 14, size: 0.16, name: 'env0_tag'},
+  {id: 15, size: 0.16, name: 'env1_tag'},
+  {id: 36, size: 0.03, name: 'rightskrew0_tag'},
+  {id: 37, size: 0.03, name: 'leftskrew0_tag'},
   {id: 50, size: 0.02, name: 'lockhand0_tag'},
   {id: 51, size: 0.02, name: 'lockbit0_tag'},
   {id: 52, size: 0.02, name: 'lockhand1_tag'},
-  {id: 53, size: 0.02, name: 'lockparallel0_tag'}
+  {id: 53, size: 0.02, name: 'lockparallel0_tag'},
+  {id: 54, size: 0.02, name: 'skrewmarker0_tag'}
   ]
 # ## Tag bundle definitions
 # ### Remarks
